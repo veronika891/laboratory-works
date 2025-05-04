@@ -3,4 +3,4 @@ t = input("Введите вторую строку ДНК: ")
 if len(s) != len(t):
     print("Ошибка: строки должны быть одинаковой длины.")
 else:
-    print("Расстояние Хэмминга:", sum(a != b for a, b in zip(s, t)))
+    print("Расстояние:", sum(a != b for a, b in zip(s, t)))
