@@ -1,3 +1,5 @@
+#Задание 3, вариант 8
+
 from Bio import SeqIO
 for record in SeqIO.parse("species1&2.gb", "genbank"):
     species = record.annotations.get("source", "Неизвестный вид")

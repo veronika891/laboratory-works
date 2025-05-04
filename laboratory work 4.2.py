@@ -1,3 +1,5 @@
+#Задание 2, вариант 8
+
 from Bio import SeqIO
 from Bio.SeqUtils import gc_fraction
 records = list(SeqIO.parse("species1&2.gb", "genbank"))
