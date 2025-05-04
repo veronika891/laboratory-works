@@ -11,3 +11,4 @@ if not set(seq) <= mass.keys():
     print("Ошибка: недопустимые символы.")
 else:
     print(f"Масса белка: {sum(mass[a] for a in seq) + 18.01056:.5f}")
+
