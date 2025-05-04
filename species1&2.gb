@@ -1,0 +1,760 @@
+LOCUS       BC037063                1353 bp    mRNA    linear   ROD 15-JUL-2006
+DEFINITION  Mus musculus abhydrolase domain containing 5, mRNA (cDNA clone
+            MGC:46776 IMAGE:4985992), complete cds.
+ACCESSION   BC037063
+VERSION     BC037063.1
+KEYWORDS    MGC.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1353)
+  AUTHORS   Strausberg,R.L., Feingold,E.A., Grouse,L.H., Derge,J.G.,
+            Klausner,R.D., Collins,F.S., Wagner,L., Shenmen,C.M., Schuler,G.D.,
+            Altschul,S.F., Zeeberg,B., Buetow,K.H., Schaefer,C.F., Bhat,N.K.,
+            Hopkins,R.F., Jordan,H., Moore,T., Max,S.I., Wang,J., Hsieh,F.,
+            Diatchenko,L., Marusina,K., Farmer,A.A., Rubin,G.M., Hong,L.,
+            Stapleton,M., Soares,M.B., Bonaldo,M.F., Casavant,T.L.,
+            Scheetz,T.E., Brownstein,M.J., Usdin,T.B., Toshiyuki,S.,
+            Carninci,P., Prange,C., Raha,S.S., Loquellano,N.A., Peters,G.J.,
+            Abramson,R.D., Mullahy,S.J., Bosak,S.A., McEwan,P.J., McKernan,K.J.,
+            Malek,J.A., Gunaratne,P.H., Richards,S., Worley,K.C., Hale,S.,
+            Garcia,A.M., Gay,L.J., Hulyk,S.W., Villalon,D.K., Muzny,D.M.,
+            Sodergren,E.J., Lu,X., Gibbs,R.A., Fahey,J., Helton,E., Ketteman,M.,
+            Madan,A., Rodrigues,S., Sanchez,A., Whiting,M., Madan,A.,
+            Young,A.C., Shevchenko,Y., Bouffard,G.G., Blakesley,R.W.,
+            Touchman,J.W., Green,E.D., Dickson,M.C., Rodriguez,A.C.,
+            Grimwood,J., Schmutz,J., Myers,R.M., Butterfield,Y.S.,
+            Krzywinski,M.I., Skalska,U., Smailus,D.E., Schnerch,A., Schein,J.E.,
+            Jones,S.J. and Marra,M.A.
+  CONSRTM   Mammalian Gene Collection Program Team
+  TITLE     Generation and initial analysis of more than 15,000 full-length
+            human and mouse cDNA sequences
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (26), 16899-16903 (2002)
+   PUBMED   12477932
+REFERENCE   2  (bases 1 to 1353)
+  CONSRTM   NIH MGC Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-AUG-2002) National Institutes of Health, Mammalian
+            Gene Collection (MGC), Bethesda, MD 20892-2590, USA
+  REMARK    NIH-MGC Project URL: http://mgc.nci.nih.gov
+COMMENT     Contact: MGC help desk
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: Jeffrey E. Green, M.D.
+            cDNA Library Preparation: Life Technologies, Inc.
+            cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+            DNA Sequencing by: National Institutes of Health Intramural
+            Sequencing Center (NISC),
+            Gaithersburg, Maryland;
+            Web site: http://www.nisc.nih.gov/
+            Contact: nisc_mgc@nhgri.nih.gov
+            Akhter,N., Ayele,K., Beckstrom-Sternberg,S.M., Benjamin,B.,
+            Blakesley,R.W., Bouffard,G.G., Breen,K., Brinkley,C., Brooks,S.,
+            Dietrich,N.L., Granite,S., Guan,X., Gupta,J., Haghighi,P.,
+            Hansen,N., Ho,S.-L., Karlins,E., Kwong,P., Laric,P., Legaspi,R.,
+            Maduro,Q.L., Masiello,C., Maskeri,B., Mastrian,S.D.,McCloskey,J.C.,
+            McDowell,J., Pearson,R., Stantripop,S., Thomas,P.J., Touchman,J.W.,
+            Tsurgeon,C., Vogt,J.L., Walker,M.A., Wetherby,K.D., Wiggins,L.,
+            Young,A., Zhang,L.-H. and Green,E.D.
+            Clone distribution: MGC clone distribution information can be found
+            through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+            Series: IRAK Plate: 81 Row: g Column: 10
+            This clone was selected for full length sequencing because it
+            passed the following selection criteria: matched mRNA gi: 13385689.
+FEATURES             Location/Qualifiers
+     source          1..1353
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="FVB/N"
+                     /db_xref="taxon:10090"
+                     /clone="MGC:46776 IMAGE:4985992"
+                     /tissue_type="Colon, normal. 5 month old male mouse."
+                     /clone_lib="NCI_CGAP_Co24"
+                     /lab_host="DH10B"
+                     /note="Vector: pCMV-SPORT6"
+     gene            1..1353
+                     /gene="Abhd5"
+                     /gene_synonym="CDS"
+                     /gene_synonym="CGI-58"
+                     /gene_synonym="IECN5"
+                     /gene_synonym="NCIE2"
+                     /db_xref="GeneID:67469"
+                     /db_xref="MGI:MGI:1914719"
+     CDS             54..1109
+                     /gene="Abhd5"
+                     /gene_synonym="CDS"
+                     /gene_synonym="CGI-58"
+                     /gene_synonym="IECN5"
+                     /gene_synonym="NCIE2"
+                     /codon_start=1
+                     /product="abhydrolase domain containing 5"
+                     /protein_id="AAH37063.1"
+                     /db_xref="GeneID:67469"
+                     /db_xref="MGI:MGI:1914719"
+                     /translation="MKAMAAEEEVDSADAGGGSGWLTGWLPTWCPTSTSHLKEAEEKML
+                     KCVPCTYKKEPVRISNGNRIWTLMFSHNISSKTPLVLLHGFGGGLGLWALNFEDLSTDR
+                     PVYAFDLLGFGRSSRPRFDSDAEEVENQFVESIEEWRCALRLDKMILLGHNLGGFLAAA
+                     YSLKYPSRVSHLILVEPWGFPERPDLADQERPIPVWIRALGAALTPFNPLAGLRIAGPF
+                     GLSLVQRLRPDFKRKYSSMFEDDTVTEYIYHCNVQTPSGETAFKNMTIPYGWAKRPMLQ
+                     RIGGLHPDIPVSVIFGARSCIDGNSGTSIQSLRPKSYVKTIAILGAGHYVYADQPEEFN
+                     QKVKEICHTVD"
+ORIGIN
+        1 ccacgcgtcc ggccggcttc gaggtgtgtc cctgcgcttg cgcggcggcg gtgatgaaag
+       61 cgatggcggc ggaggaggag gtggactcgg cagacgccgg tggagggtca ggatggctga
+      121 cagggtggct tcctacctgg tgtcccacat ctacatcaca ccttaaagaa gctgaagaga
+      181 aaatgttaaa atgtgtcccc tgcacttaca agaaagagcc tgtgcgcata tccaatggaa
+      241 acagaatatg gacgctgatg ttctctcaca acatttctag taagacgcca cttgtcctcc
+      301 ttcatggttt tggaggaggt cttggacttt gggccctgaa ttttgaagat ctaagcaccg
+      361 ataggcctgt ctatgccttt gacctattgg gcttcggaag aagtagtaga cctaggtttg
+      421 acagtgatgc ggaagaagtg gagaatcagt ttgtggaatc cattgaagag tggagatgtg
+      481 ccctcaggtt ggacaaaatg atcttgcttg gacacaacct gggagggttc ttggctgccg
+      541 cttactcact gaagtaccca tcaagggtta gtcacctcat tttagtagag ccatggggtt
+      601 ttcctgagcg accagatctt gctgatcaag agagaccaat tccagtttgg atcagggccc
+      661 taggggcagc attgactccc tttaacccct tggctggcct caggattgca ggaccttttg
+      721 ggttaagtct agtgcagcgt ttgaggcctg atttcaagcg gaagtactcc tctatgtttg
+      781 aagatgacac ggtgacagag tacatctacc actgtaatgt acaaacccca agtggtgaga
+      841 cagctttcaa aaacatgacg attccttatg ggtgggccaa acggccaatg cttcagcgga
+      901 taggtggctt gcatcctgac attccagttt cagtgatctt tggagcccga tcctgcatag
+      961 atggcaactc tggaaccagc atccagtcac tgcgaccgaa gtcctacgtg aagacaattg
+     1021 ccatcctcgg ggcggggcat tatgtgtatg cagatcagcc agaagaattc aaccagaaag
+     1081 tcaaggagat ctgccacaca gtagactgag cacacagaac catgcagcat ccgtgacggg
+     1141 tgccgttcat gagcaatccc cacagcccga ggacccccgc agtctcctgg actggactct
+     1201 gcagctttcc acatttaaac caaccagtgc cttctagaag aatggctttc ctttctccta
+     1261 cacagaatta aaatatagga gagtctccca atttaataat cgccttaaat aaaggttgtc
+     1321 cttctgatgt aaaaaaaaaa aaaaaaaaaa aaa
+//
+LOCUS       BC006683                2394 bp    mRNA    linear   ROD 24-FEB-2004
+DEFINITION  Mus musculus abhydrolase domain containing 5, mRNA (cDNA clone
+            IMAGE:3582434), partial cds.
+ACCESSION   BC006683
+VERSION     BC006683.1
+KEYWORDS    .
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2394)
+  AUTHORS   Strausberg,R.L., Feingold,E.A., Grouse,L.H., Derge,J.G.,
+            Klausner,R.D., Collins,F.S., Wagner,L., Shenmen,C.M., Schuler,G.D.,
+            Altschul,S.F., Zeeberg,B., Buetow,K.H., Schaefer,C.F., Bhat,N.K.,
+            Hopkins,R.F., Jordan,H., Moore,T., Max,S.I., Wang,J., Hsieh,F.,
+            Diatchenko,L., Marusina,K., Farmer,A.A., Rubin,G.M., Hong,L.,
+            Stapleton,M., Soares,M.B., Bonaldo,M.F., Casavant,T.L.,
+            Scheetz,T.E., Brownstein,M.J., Usdin,T.B., Toshiyuki,S.,
+            Carninci,P., Prange,C., Raha,S.S., Loquellano,N.A., Peters,G.J.,
+            Abramson,R.D., Mullahy,S.J., Bosak,S.A., McEwan,P.J., McKernan,K.J.,
+            Malek,J.A., Gunaratne,P.H., Richards,S., Worley,K.C., Hale,S.,
+            Garcia,A.M., Gay,L.J., Hulyk,S.W., Villalon,D.K., Muzny,D.M.,
+            Sodergren,E.J., Lu,X., Gibbs,R.A., Fahey,J., Helton,E., Ketteman,M.,
+            Madan,A., Rodrigues,S., Sanchez,A., Whiting,M., Madan,A.,
+            Young,A.C., Shevchenko,Y., Bouffard,G.G., Blakesley,R.W.,
+            Touchman,J.W., Green,E.D., Dickson,M.C., Rodriguez,A.C.,
+            Grimwood,J., Schmutz,J., Myers,R.M., Butterfield,Y.S.,
+            Krzywinski,M.I., Skalska,U., Smailus,D.E., Schnerch,A., Schein,J.E.,
+            Jones,S.J. and Marra,M.A.
+  TITLE     Generation and initial analysis of more than 15,000 full-length
+            human and mouse cDNA sequences
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (26), 16899-16903 (2002)
+   PUBMED   12477932
+REFERENCE   2  (bases 1 to 2394)
+  AUTHORS   Strausberg,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-APR-2001) National Institutes of Health, Mammalian
+            Gene Collection (MGC), Cancer Genomics Office, National Cancer
+            Institute, 31 Center Drive, Room 11A03, Bethesda, MD 20892-2590, USA
+  REMARK    NIH-MGC Project URL: http://mgc.nci.nih.gov
+COMMENT     Contact: MGC help desk
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: Gilbert Smith, Ph.D.
+            cDNA Library Preparation: Life Technologies, Inc.
+            cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+            DNA Sequencing by: Baylor College of Medicine Human Genome
+            Sequencing Center
+            Center code: BCM-HGSC
+            Web site: http://www.hgsc.bcm.tmc.edu/cdna/
+            Contact: amg@bcm.tmc.edu
+            Gunaratne, P.H., Garcia, A.M., Lu, X., Hulyk, S.W., Loulseged, H.,
+            Kowis, C.R., Sneed, A.J., Martin, R.G., Muzny, D.M., Nanavati,
+            A.N., Gibbs, R.A.
+            Clone distribution: MGC clone distribution information can be found
+            through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+            Series: IRAK Plate: 9 Row: n Column: 8.
+FEATURES             Location/Qualifiers
+     source          1..2394
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="FVB/N"
+                     /db_xref="taxon:10090"
+                     /clone="IMAGE:3582434"
+                     /tissue_type="Mammary tumor. Metallothionien-TGF alpha
+                     model. 10 month old virgin mouse. Taken by biopsy."
+                     /clone_lib="NCI_CGAP_Mam1"
+                     /lab_host="DH10B"
+                     /note="Vector: pCMV-SPORT6"
+     gene            <1..2394
+                     /gene="Abhd5"
+                     /gene_synonym="2010002J10Rik"
+                     /gene_synonym="CDS"
+                     /gene_synonym="IECN5"
+                     /gene_synonym="NCIE2"
+                     /db_xref="GeneID:67469"
+                     /db_xref="MGI:MGI:1914719"
+     CDS             <1..453
+                     /gene="Abhd5"
+                     /gene_synonym="2010002J10Rik"
+                     /gene_synonym="CDS"
+                     /gene_synonym="IECN5"
+                     /gene_synonym="NCIE2"
+                     /codon_start=1
+                     /product="Abhd5 protein"
+                     /protein_id="AAH06683.1"
+                     /db_xref="GeneID:67469"
+                     /db_xref="MGI:MGI:1914719"
+                     /translation="ALGAALTPFNPLAGLRIAGPFGLSLVQRLRPDFKRKYSSMFEDDT
+                     VTEYIYHCNVQTPSGETAFKNMTIPYGWAKRPMLQRIGGLHPDIPVSVIFGARSCIDGN
+                     SGTSIQSLRPKSYVKTIAILGAGHYVYADQPEEFNQKVKEICHTVD"
+ORIGIN
+        1 gccctagggg cagcattgac tccctttaac cccttggctg gcctcaggat tgcaggacct
+       61 tttgggttaa gtctagtgca gcgtttgagg cctgatttca agcggaagta ctcctctatg
+      121 tttgaagatg acacggtgac agagtacatc taccactgta atgtacaaac cccaagtggt
+      181 gagacagctt tcaaaaacat gacgattcct tatgggtggg ccaaacggcc aatgcttcag
+      241 cggataggtg gcttgcatcc tgacattcca gtttcagtga tctttggagc ccgatcctgc
+      301 atagatggca actctggaac cagcatccag tcactgcgac cgaagtccta cgtgaagaca
+      361 attgccatcc tcggggcggg gcattatgtg tatgcagatc agccagaaga attcaaccag
+      421 aaagtcaagg agatctgcca cacagtagac tgagcacaca gaaccatgca gcacccgtga
+      481 cgggtgccgt tcatgagcaa tccccacagc ccgaggaccc ccgcagtctc ctggactgga
+      541 ctctgcagct ttccacattt aaaccaacca gtgccttcta gaagaatggc tttcctttct
+      601 cctacacaga attaaaatat aggagagtct cccaatttaa taatcgcctt aaataaaggt
+      661 tgtccttctg atgtactgaa aaattgtgat ttttcagctg agacttttct caatttcacc
+      721 taactgcttg ttaggtgttt ggtgttgcag tccgtatgcc agtgtaccta gtccatatgc
+      781 cagtgtacct agtccatatg ccagtgtacc tagcgacttc tgggcctgtg gtgttaggtg
+      841 ttgggaagct gcactttatt ttccttgcat gtatttactg tctctaacaa ctaacatagt
+      901 taacccaagt atttttatgt aaaaagattt caatttagaa tacttcattt ttgagatgga
+      961 gtttagaata tttcattttg aaatggaacg aaagggttag gttttgatgt aaaagacagg
+     1021 agtcaatcac tagcgttaac tttccttgtt ttcctgtttt atgatcaagg ccgtgtttca
+     1081 gcattttaaa tgtgttccat ggtgacatag tgcttacagc aacgcagttc ctggggccct
+     1141 tctgtgtgta atctacaggg ttctatgaga acatatgcat agactcagcc attcaagtgc
+     1201 tgagtagccc gaacctgaaa cctgtcccct ttccttccag tattcccagg acccaggatc
+     1261 taggtcccct cacttgcagg gatgttaaca ctgttgccta tcgggaaacc aagtcccact
+     1321 gtgttctcat gagcaaccag cttacatggt gcttaaactg gattgcattt taccactaac
+     1381 atttaaaact atgtggtgct gttacgtctc atggcgccag aaatgagata gaacttgtgg
+     1441 ttatttttat tgaatattat gttaatctaa ccacttatat acttgaagta aaattatgaa
+     1501 aaaaatctat tatgttgttt gaactgtttg gcagaaacca ccattggatt tataactttc
+     1561 tgacagtgtt aaagtgagag acaatttgaa actatgaaaa agctccatgg aatagctgga
+     1621 tgctgagaaa gccttctgtc tagagaacag agaacaaaga gcattgttac caacattgtt
+     1681 tgtccaggag aaaagcagat tacacaaata aaacctcgac ctcacaaatc acgactcgat
+     1741 gacttgagct attacatttt tagtgactag tcaggaaatt tttttgaaaa tataaaatta
+     1801 tatcacatgt aattaactgc cagcaagatt agctccatac tttaggagac cgtgaaaatc
+     1861 atattgaagc gggacaaagc agcctcccag cgacccttta tctgactcat ttaacgcatt
+     1921 aggttagtgc aaggagccac cgtgagacca aaagtgcttg ttctcaccac cttgagaata
+     1981 aaaatagcct ttttccccct ttatagttag tgttgtgggt ggccagatcc acacttgaga
+     2041 gtggtagaac atttgtgcag gactcttact tggcagtcac cagcctcagt cttttgttca
+     2101 ccaaagaaaa aaaattctgc acaagaaacc ggtctgccca aagaaactga cttccccact
+     2161 gagctgcttt gctttactgg aaacctgtga agcttcctaa acattaaaat ttccatggtg
+     2221 tgtgcagtga ttgttgtaaa ggttgaagta gtaaagttta taatctgcaa attcttgaga
+     2281 acagtggttg ctaaacatct ttcttgtaaa cgatctctta actatcattg gtctttgcta
+     2341 agttatttta cagaataaac tcgacagtgc tagcaaaaaa aaaaaaaaaa aaaa
+//
+LOCUS       PV483363                 322 bp    mRNA    linear   ROD 23-APR-2025
+DEFINITION  Mus musculus isolate XA19 immunoglobulin light chain variable region
+            mRNA, partial cds.
+ACCESSION   PV483363
+VERSION     PV483363.1
+KEYWORDS    .
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 322)
+  AUTHORS   Lebedin,Y. and Demyanov,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2025) RnD, XEMA Oy, Myllymaenkatu, 21,
+            Lappeenranta 53550, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..322
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="BALB/c"
+                     /isolate="XA19"
+                     /db_xref="taxon:10090"
+                     /cell_line="mouse hybridoma"
+                     /collected_by="Yuri Lebedin"
+     CDS             <1..>322
+                     /codon_start=1
+                     /product="immunoglobulin light chain variable region"
+                     /protein_id="XRL80585.1"
+                     /translation="DIQMTQSPSSLSASLGERVSLTCRASQEISGYLSWLQQKPDGTIT
+                     RLIYAASTLYSGVPKRFSGSRSGSDYSLTISSLESEDFADYYCLQYAIYPWTFGGGTKL
+                     EIK"
+ORIGIN
+        1 gacatccaga tgacccagtc tccatcctcc ttatctgcct ctctgggaga aagagtcagt
+       61 ctcacttgtc gggcaagtca ggaaattagt ggttacttaa gctggcttca gcagaaacca
+      121 gatggaacta ttacacgcct gatctacgcc gcatccactt tatattctgg tgtcccaaaa
+      181 aggttcagtg gcagtaggtc tgggtcagat tattctctca ccatcagcag ccttgagtct
+      241 gaagattttg cagactatta ctgtctacaa tatgctattt atccttggac gttcggtgga
+      301 ggcaccaagc tggaaatcaa ac
+//
+LOCUS       PV483362                 352 bp    mRNA    linear   ROD 23-APR-2025
+DEFINITION  Mus musculus isolate XA19 immunoglobulin heavy chain variable region
+            mRNA, partial cds.
+ACCESSION   PV483362
+VERSION     PV483362.1
+KEYWORDS    .
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 352)
+  AUTHORS   Lebedin,Y. and Demyanov,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2025) RnD, XEMA Oy, Myllymaenkatu, 21,
+            Lappeenranta 53550, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..352
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="BALB/c"
+                     /isolate="XA19"
+                     /db_xref="taxon:10090"
+                     /cell_line="mouse hybridoma"
+                     /collected_by="Yuri Lebedin"
+     CDS             <1..>352
+                     /codon_start=1
+                     /product="immunoglobulin heavy chain variable region"
+                     /protein_id="XRL80584.1"
+                     /translation="QVQLKESGPGLVAPSQSLSITCTVSGFSLISYGVHWVRQPPGKGL
+                     EWLGVIWAGGRTNYNSALMSRLSISKDNSKSQVFLKMNSLQTDDTAIYYCARYYYGSSL
+                     DYWGQGTTLTVSS"
+ORIGIN
+        1 caggtgcagt tgaaggagtc aggacctggc ctggtggcgc cctcacagag cctgtctatc
+       61 acttgcactg tctctgggtt ttcattaatc agttatggtg tacactgggt tcgccagcct
+      121 ccaggaaagg gtctggagtg gctgggagta atatgggctg gtggaagaac aaattataat
+      181 tcggctctca tgtccagact gagcatcagc aaagacaact ccaagagcca agttttctta
+      241 aaaatgaaca gtctgcaaac tgatgacaca gccatatact actgtgccag atattactac
+      301 ggtagtagcc ttgactactg gggccaaggc accactctca cagtctcctc ag
+//
+LOCUS       PV505062                 494 bp    mRNA    linear   ROD 20-APR-2025
+DEFINITION  Mus musculus strain BALB/c monoclonal antibody 9E1 light chain
+            variable region mRNA, partial cds.
+ACCESSION   PV505062
+VERSION     PV505062.1
+KEYWORDS    .
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 494)
+  AUTHORS   Sookhoo,J., Bittner,H., Teffera,M., Sullivan,D.S., Lung,O.,
+            Kobasa,D., Ambagala,A. and Babiuk,S.
+  TITLE     Development and characterization of SARS-CoV-2 variant-neutralizing
+            monoclonal antibodies produced from baculovirus expressed antigens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 494)
+  AUTHORS   Sookhoo,J., Bittner,H., Teffera,M., Sullivan,D.S., Lung,O.,
+            Kobasa,D., Ambagala,A. and Babiuk,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-APR-2025) Canadian Food Inspection Agency, National
+            Centre for Foreign Animal Disease, 1015 Arlington Street, Winnipeg,
+            Manitoba R3E 3M4, Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method :: Geneious Prime v. 2024.0.5; Minimap2 v. 2.24
+            Coverage              :: 30x
+            Sequencing Technology :: Oxford Nanopore
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..494
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="BALB/c"
+                     /db_xref="taxon:10090"
+                     /cell_type="Hybridoma"
+                     /geo_loc_name="Canada"
+                     /collection_date="2023-04-12"
+     CDS             1..>494
+                     /codon_start=1
+                     /product="monoclonal antibody 9E1 light chain variable
+                     region"
+                     /protein_id="XRJ25032.1"
+                     /translation="MDFQVQIFSFLLISASVIMSRGQIVLTQSPAIMSASLGEEITLTC
+                     SVSSSVSYMHWYQQKSGTSPKLLIYSTSNLASGVPSRFSGSGSGTFYSLTISSVEAEDA
+                     ADYYCHQWSTWTFGGGTKLDIKRADAAPTVSIFPPSSEQLTSGGASVVCFLNNFYPKDI
+                     NV"
+ORIGIN
+        1 atggattttc aggtgcagat tttcagcttc ctgctaatca gtgcctcagt cataatgtcc
+       61 agaggacaaa ttgttctcac ccagtctcca gcaatcatgt ctgcatctct aggggaggag
+      121 atcaccctaa cctgcagtgt cagctcgagt gtaagttaca tgcactggta ccagcagaag
+      181 tcaggcactt ctcccaaact cttgatttat agcacatcca acctggcttc tggagtccct
+      241 tctcgcttca gtggcagtgg gtctgggacc ttttattctc tcacaatcag cagtgtggag
+      301 gctgaagatg ctgccgatta ttactgccat cagtggagta cttggacgtt cggtggaggc
+      361 accaagctag atatcaaacg ggctgatgct gcaccaactg tatccatctt cccaccatcc
+      421 agtgagcagt taacatctgg aggtgcctca gtcgtgtgct tcttgaacaa cttctacccc
+      481 aaagacatca atgt
+//
+LOCUS       MF094722                3858 bp    mRNA    linear   VRT 31-MAY-2018
+DEFINITION  Columba livia melanoma differentiation associated protein-5 mRNA,
+            complete cds.
+ACCESSION   MF094722
+VERSION     MF094722.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 3858)
+  AUTHORS   Li,G., Lu,L., Tian,Y., Chen,L., Shen,J., Tao,Z., Zeng,T. and Xu,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2017) Institute of Animal Science and Veterinary
+            Medicine, Zhejiang Academy of Agricultural Sciences, 198 Shiqiao
+            Road, Hangzhou, Zhejiang 310021, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3858
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8932"
+                     /clone="c"
+     CDS             211..3240
+                     /note="MDA5"
+                     /codon_start=1
+                     /product="melanoma differentiation associated protein-5"
+                     /protein_id="AVZ66075.1"
+                     /translation="MGEESRDERFLYMISCFRPRLEQFIRVEPVLDRLPLLSAEDREKV
+                     RAAARQRGEVEGAEELLRAVERGPRGCGWFHEFLQALEHSGCSLAACYVNPSLSQLPSP
+                     AEEADHDLCVHLVQLLYSTLVDKMQTVQVAEKCLQMGIFQEEDLDQIHTVTDNHGNRGG
+                     ARELLSRVVQKKDWFSPFLIALRETRHGDLADDLSGNTGGTENGQNEMKNSTNEVREVI
+                     SPPGYAIVEDLKQQENVNDSFSSENSVLETSTRRNSVVSESDVSIGDGSVSNLKENLGH
+                     SCTTSDSDEGEMESRSSPEPDLILRDYQMEVAKPALNGENIIICLPTGSGKTRVAVYIT
+                     KDHLDKKKRASEPGKVIVLVNKVPLVEQHLRKEFNPFLKRWYRVIGLSGDSQLKISFPE
+                     VVRRNDVIISTAQILENSLLDAAKEDEEGVHLSDFSLIIIDECHHTQKEGVYNNIMRRY
+                     LKEKMKNRKLAKENKPLIPQPQILGLTASPGVGGATSNSKAEEHILKICANLDACRIMT
+                     VEEHASQLKNQVKEPYKKTVIADDKRRDPFRERITEIMTDIQNYCQLHPKSEFGTQPYE
+                     QWVIREEKKAAKEEKRKERVCAEHLKKYNDALQINDTIRMVDAYNHLKNFYKEEKSKKT
+                     VRNDDDDDDDEPAVSKQDETDEFLIGLFHAKKKQLKELARKPEYENEKLIQLRNTLMEE
+                     FTKTEEPRGIIFTKTRLSAFALFQWIKDNPKFEEVGIKAHYLIGAGHNSEMKPMTQNEQ
+                     REVIDKFRGGNVNLLIATTVAEEGLDIKECNIVIRYGLVTNEIAMVQARGRARADESTY
+                     ALVASSGSGAVEREDVNIFREKMMYKAIQRVQKMPREEYLNKIQDFQLQSIVEKKMKTK
+                     RDQCKTYKKNPSLITFLCKNCYKLICSGEDIQVIGNMHHVSVKKDFQSLYHTRENKTLQ
+                     DKHADYQTNGEIICKDCGQAWGNMMVHRGLDLPCLKIRNFVVVFEDKKTTKQIFKKWGE
+                     LPIRFPNFDYAAHCPSSDED"
+ORIGIN
+        1 atgaaacggg gcaggctcgg cggcagctga ggcggcgcgg agcgggacgg gggacgcgct
+       61 cctcgctcac accgagcccg acaccagcct gcggagaccg cgggtcctga gcggctgggc
+      121 tccctcagcc gcccttgcgg gcacatcccc ccgtgcccgc cgtcgttctc cagcggcagc
+      181 aggggtgtcg cggacgccgc cagcgcagcg atgggagaag agtcccgaga cgaacgcttc
+      241 ctctacatga tctcctgctt caggccgcgg ctggagcagt tcatccgggt ggagccggtg
+      301 ctggaccggc ttcccttgct gagcgcggag gacagggaga aggtgcgggc ggccgcccgg
+      361 cagcggggcg aggtggaggg ggcggaggag ctgctgcggg ccgtggagcg gggaccccgc
+      421 gggtgcggct ggttccacga gttcctgcag gcgctggagc acagtggctg cagcctggct
+      481 gcctgctacg tgaaccccag cctcagccag ctgccatcgc cagccgagga ggccgaccat
+      541 gacctctgcg tgcacttggt gcagctgctc tacagcacgc tggtggataa aatgcagacc
+      601 gtgcaggtgg ccgagaagtg cctgcagatg ggcatcttcc aggaggagga cctcgatcag
+      661 atccacactg ttactgacaa tcatgggaac agaggtggtg caagggaact actgagcaga
+      721 gtagtgcaga agaaggattg gttctctcct tttttgattg ctctacgtga aacccgacat
+      781 ggagaccttg cagatgatct aagtggaaat acaggaggaa cagagaatgg acaaaatgag
+      841 atgaagaaca gtacaaatga agtaagagaa gttataagcc caccaggata tgccattgtg
+      901 gaggatttga aacagcaaga aaatgtgaat gatagtttca gcagtgagaa cagtgtactg
+      961 gaaacatcta ctagaaggaa ttctgtagtt tctgagtcag atgtctccat aggagatgga
+     1021 agtgtcagta acttgaaaga aaacttggga cacagctgca caaccagtga ttcagatgaa
+     1081 ggtgaaatgg aaagcagatc ttcacctgag ccagatctga tcctgagaga ttaccagatg
+     1141 gaagttgcaa agccagcact gaatggggag aatattataa tatgtctccc tacaggcagt
+     1201 ggtaaaacca gagtggctgt ttacattact aaagatcact tggataagaa gaaaagagca
+     1261 tcggagcctg gaaaagttat agtacttgtt aataaggtac cattggtaga acaacattta
+     1321 cgaaaggagt ttaatccatt cctgaagcgt tggtatcggg ttattggttt aagtggcgat
+     1381 tctcagctga aaatctcatt tcctgaagtt gtcagaagaa atgatgtcat catcagtaca
+     1441 gcacagatcc ttgagaattc actgttagat gcagccaagg aagatgaaga aggtgtccac
+     1501 ttatcagatt tttcactcat cattattgat gaatgtcatc acactcagaa ggaaggtgtc
+     1561 tacaataata taatgcgacg ttacttaaaa gaaaagatga agaacaggaa gctagcaaaa
+     1621 gaaaacaaac cactgatccc acagcctcag attctgggac ttacagcctc acctggtgta
+     1681 ggaggtgcaa catccaactc aaaagctgaa gaacatattc tgaaaatctg tgccaatctc
+     1741 gatgcgtgta gaatcatgac tgttgaagag catgcctccc aattgaagaa tcaagtgaag
+     1801 gaaccatata agaagactgt gattgcagat gacaaaagaa gggatccatt tagagagaga
+     1861 attactgaga tcatgaccga tattcaaaac tattgccagc ttcatccaaa atctgagttt
+     1921 ggaactcagc catatgaaca gtgggtgatt agagaagaga aaaaagctgc aaaagaagaa
+     1981 aaacgcaagg aacgtgtctg tgcggaacac ttgaagaaat ataacgatgc tctccagata
+     2041 aatgacacca tccgaatggt ggatgcatac aatcacctaa agaactttta taaggaggag
+     2101 aaaagtaaga agacagtaag gaatgatgat gatgacgatg atgatgaacc agcagtatca
+     2161 aaacaggatg aaacagatga atttctaata ggtttatttc atgcaaaaaa gaagcagctg
+     2221 aaagagttgg ctagaaagcc agaatatgaa aatgagaagc taatacagtt gcgaaacact
+     2281 ttaatggagg agttcacaaa gaccgaggaa cctagaggaa ttattttcac gaagactcgg
+     2341 ctcagtgcct ttgctctgtt ccagtggatt aaggataacc caaaatttga agaagtggga
+     2401 attaaggccc attatcttat tggtgctgga cataacagtg aaatgaaacc catgactcag
+     2461 aatgagcaaa gggaagttat tgataaattc cgaggtggta atgtaaattt acttattgct
+     2521 actactgtag ctgaggaagg cctagacatc aaagaatgta acatcgttat tcgctatggc
+     2581 ctcgtcacca atgaaattgc catggtgcag gctcgtggtc gagctcgtgc tgatgagagc
+     2641 acctatgcac ttgtggcttc aagtggctca ggagccgttg aacgtgaaga tgttaatatt
+     2701 ttccgtgaga aaatgatgta taaggccatt caacgtgtcc agaagatgcc gcgggaagag
+     2761 tatttaaata agattcagga tttccagttg caaagtatag tggaaaaaaa aatgaagaca
+     2821 aagagagatc agtgcaagac atacaagaaa aatccttcac taataacatt cctgtgcaaa
+     2881 aattgctaca agctgatatg ttctggagaa gacatacaag ttattggaaa catgcatcat
+     2941 gtcagtgtaa aaaaagattt ccaaagtctt taccatacaa gagaaaataa gacactgcaa
+     3001 gataagcatg ctgattacca gacaaatggg gaaattatat gtaaagactg tggacaagct
+     3061 tggggaaaca tgatggttca cagaggtctt gacctgcctt gtctaaaaat tagaaatttt
+     3121 gtggttgtgt ttgaagacaa gaaaacaaca aagcaaattt ttaagaaatg gggagaactg
+     3181 cccattaggt tccctaattt tgattatgca gctcattgcc cttcaagtga tgaagattag
+     3241 aaaacccaag aaaggagaag gataaagtca tatgggtaca gtctgaactc agatttgcag
+     3301 tggtacacca caacaaagaa gatgacccaa tacattgcag tcatgtgtat ccatggaaca
+     3361 aattcctgta tctactcact acagcccatc atggggtgac aacagtgtca aaagtgtgtt
+     3421 aggtgacctg tcataaagca cagaacatag gaccgacatc ttgagatatg ccatggtgat
+     3481 tattttctgg tttccttccc actataaacc ttttgaagat aaagtacctc gaaagaggag
+     3541 ccatgaaaag aaaaagttga gctgagtgtt attttctgaa taattcttgc tttgtcagtg
+     3601 ttttcatgac tgagttcttg ccctctaatc tttagctgta agctcataca tcttgacaga
+     3661 ctaaaactaa gtttacatta aaagacattt caaagaatca agcccttaac ctgacttgaa
+     3721 attgattatt gtgatgtcca agaagcacaa tgccaagtga ctttcggtgt gttagtttca
+     3781 taggattatt taacgggcta tataatgagg tatgtgattt ttttcaataa attactataa
+     3841 cgaataaaaa aaaaaaaa
+//
+LOCUS       MG214790                1215 bp    mRNA    linear   VRT 03-JAN-2018
+DEFINITION  Columba livia voucher UWM<POL>:P CD8 1 CD8a mRNA, complete cds.
+ACCESSION   MG214790
+VERSION     MG214790.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 1215)
+  AUTHORS   Dziewulska,D. and Stenzel,T.
+  TITLE     The influence of aloe vera and licorice extracts on selected
+            mechanisms of humoral and cell-mediated immunity in pigeons
+            experimentally infected with PPMV-1
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1215)
+  AUTHORS   Dziewulska,D. and Stenzel,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2017) Department of Poultry Diseases, Faculty of
+            Veterinary Medicine, University of Warmia and Mazury in Olsztyn,
+            Oczapowskiego 13, Olsztyn, Warminsko-Mazurskie 10-719, Poland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1215
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /host="Columba livia Ornamental pigeon Danziger highflier"
+                     /specimen_voucher="UWM<POL>:P CD8 1"
+                     /db_xref="taxon:8932"
+                     /geo_loc_name="Poland"
+                     /collection_date="Jun-2017"
+                     /collected_by="Daria Dziewulska"
+                     /identified_by="Daria Dziewulska"
+     CDS             523..1215
+                     /codon_start=1
+                     /product="CD8a"
+                     /protein_id="AUG84396.1"
+                     /translation="MDRSPALLLLLALRLCCPGMQVQGYKMMVKFRDSSITHVRVGQRL
+                     ELKCQTDKGDSGVFWVRMDRAGTLHFIVFISSLARTTFEGNQRTSTRFEATRDSSFYLL
+                     AVKSFTLQDEGNYFCLMNSNQMLYFSHGQPAFLLVTTTPAPTTQGSTTKEEPSPETPDP
+                     DTSKKKEPDFFCDIFIWVPLAGTCVLLLLALAVTTVLCQRTRSRRCRCKRPVNGKPHGK
+                     PSVPRRHV"
+ORIGIN
+        1 tgggtaataa aatacagcgg gttttgccat ctgtatgagg ctccttgagt ccacgcaagt
+       61 ggggacagca gaatccctgc caagaagcac aacctggagc ctgccaccag agcatggggc
+      121 tcatccatga tccatgaggg tctcttccaa ccaaaatgat tctatgactc tgcagagatg
+      181 gagctgctgt gaagccctgg acggccgaag ataccaggct gtggtggctg atcctgcccc
+      241 aggcatgagc atcattcctc tggatctcca gggaagtcaa cgaggaaaaa tccttgaggc
+      301 gccattaacc aaaatgataa atgagcccaa attctggatt agaacttagt ttcttcagaa
+      361 atgttttttt caccttcatt ttgccgcaga tgccgaacac catcttaaga gggtcctgat
+      421 gacatcacat cctctccaaa gagcaacgca gcctcccaag tcaagagaga aagatcatct
+      481 ctgctccact gcaccgtccc caaggacggt cacccgtaga agatggacag gtcccctgca
+      541 ctgcttcttc tgctcgccct gaggctctgc tgccccggga tgcaggtcca ggggtacaag
+      601 atgatggtca agtttcgtga cagcagcatc acgcacgtcc gggtgggaca gcggctggag
+      661 ctgaagtgtc agacggacaa gggggacagt ggtgtgttct gggtccgtat ggacagagcg
+      721 gggactcttc atttcatcgt cttcatttcg tcactggccc ggaccacctt cgaggggaac
+      781 cagaggacct ccacacgctt tgaagcgacc agggacagca gtttctacct gctggctgtg
+      841 aagtcgttca cactgcagga cgaggggaac tatttctgcc tgatgaacag caaccaaatg
+      901 ctgtacttca gccatggcca gcctgccttc ctcctagtca ccaccacacc agcacccacc
+      961 acccagggta gcaccaccaa agaggaaccc agcccggaga ccccggatcc agacaccagc
+     1021 aagaagaaag agccggattt cttctgtgat atcttcatct gggttccctt ggcaggcacc
+     1081 tgcgtcctgc tcctcctcgc cctggcagtc accaccgtgc tgtgtcaacg aaccaggagc
+     1141 cgaagatgca gatgtaaaag acctgtgaac gggaagcccc atgggaaacc cagcgttccc
+     1201 aggcgacacg tatga
+//
+LOCUS       MG214789                1371 bp    mRNA    linear   VRT 03-JAN-2018
+DEFINITION  Columba livia voucher UWM<POL>:P CD4 1 CD4 mRNA, partial cds.
+ACCESSION   MG214789
+VERSION     MG214789.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 1371)
+  AUTHORS   Dziewulska,D. and Stenzel,T.
+  TITLE     The influence of aloe vera and licorice extracts on selected
+            mechanisms of humoral and cell-mediated immunity in pigeons
+            experimentally infected with PPMV-1
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1371)
+  AUTHORS   Dziewulska,D. and Stenzel,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2017) Department of Poultry Diseases, Faculty of
+            Veterinary Medicine, University of Warmia and Mazury in Olsztyn,
+            Oczapowskiego 13, Olsztyn, Warminsko-Mazurskie 10-719, Poland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1371
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /host="Columba livia Ornamental pigeon Danziger highflier"
+                     /specimen_voucher="UWM<POL>:P CD4 1"
+                     /db_xref="taxon:8932"
+                     /geo_loc_name="Poland"
+                     /collection_date="Jun-2017"
+                     /collected_by="Daria Dziewulska"
+                     /identified_by="Daria Dziewulska"
+     CDS             <1..1344
+                     /codon_start=1
+                     /product="CD4"
+                     /protein_id="AUG84395.1"
+                     /translation="GVAGQAVILNCRGIPHHAAVTWKHYKLVIKKSSITPLKGKATMSD
+                     RSEIIPSSKHLKVMDLRLSDAGIYTCEYESHTVSISLHVFKLMISLDGHFLPNEDLELT
+                     LMQNSSHLLPSLNITLFNSNNNIVTPIVVEDKTHQKYTVKLKELEATDSGTWTCRVHSD
+                     SPLINQNIPFDVRVLGFQNPDLERKYATVGSTVILSWHLNFRKITWKGGFTGQLNWKQQ
+                     ESAPAHELLDFNTTAWGEQHKTKKSNRFWFEIREGKFGSTIEVKLSKVNFNHSGHYQCQ
+                     LAYNSRYVQSKIELVVMKVSANPAGPLARGAEMTLTCQVSSPLPPNTHLRWERVNGTQM
+                     DVKKSKQHEVKLEVNVSTAGLWICHLIEDNDLMISLSYPVEEAPVWISYVVIGASVGGS
+                     VLVFVLACLCTISGISWQRRRQRAKRMVQARQYLLENKTWQCQHRLNK"
+ORIGIN
+        1 ggtgtcgcag gacaggcagt catcttgaat tgcagaggta tacctcatca tgcagctgtg
+       61 acctggaagc actacaagct tgttattaaa aagtcatcta ttaccccttt gaaaggcaaa
+      121 gctaccatga gtgatcgatc ggaaatcatc cccagcagta aacacctgaa ggtgatggac
+      181 ttaagactct ctgatgctgg catctacacc tgtgaatatg agtctcacac agtcagtatc
+      241 tcactacatg tcttcaaatt gatgatctct ttagatgggc acttcctgcc aaatgaagac
+      301 cttgagttga ctttaatgca aaattcatcc catcttctac ccagtctcaa catcacattg
+      361 tttaacagta acaacaacat tgtaacaccc atagtagtag aagacaagac ccatcaaaaa
+      421 tacacagtga agttaaagga actggaggct acagacagtg ggacttggac gtgtcgtgtc
+      481 cattcagact ctccattgat taatcagaac atcccctttg atgtaagggt attaggtttt
+      541 cagaatccag acttggaaag aaagtatgca actgttggta gcactgtcat cttgtcatgg
+      601 catctgaact tccggaagat aacatggaaa ggaggtttca caggacaact gaattggaag
+      661 caacaagaaa gtgcacctgc tcatgaacta cttgatttca acaccacagc atggggagag
+      721 cagcataaga ccaaaaaaag caaccgcttt tggtttgaaa tacgtgaagg caaatttgga
+      781 agcaccatag aagtgaaact ctccaaagtc aatttcaacc actctgggca ctaccagtgc
+      841 cagctggcat acaacagcag atacgtgcag agcaagatag agctagtggt gatgaaagtc
+      901 tcagctaacc ctgctgggcc actcgccaga ggggccgaga tgaccctgac ctgccaggtc
+      961 tctagcccac tcccacccaa cacacatttg cgctgggaac gtgtgaatgg gactcagatg
+     1021 gatgtcaaga agtcaaagca gcatgaagta aagttggagg tgaatgtcag cactgcaggg
+     1081 ctgtggatct gtcacctcat agaagacaat gacttgatga tcagcctcag ctaccctgtg
+     1141 gaggaagctc ctgtttggat tagttatgtg gtaattggag caagtgttgg aggcagtgtg
+     1201 ttggtgtttg tccttgcatg cctgtgcacc atcagtggta taagctggca gcggagaagg
+     1261 caacgggcaa aaaggatggt acaagcacga caatacttgc tggaaaacaa gacgtggcag
+     1321 tgtcaacatc ggctgaataa gtagtattgc agcactggag tcagaaggac t
+//
+LOCUS       KR815361                 336 bp    mRNA    linear   VRT 27-OCT-2015
+DEFINITION  Columba livia KIT (KIT) mRNA, partial cds.
+ACCESSION   KR815361
+VERSION     KR815361.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 336)
+  AUTHORS   Apopo,S.N., Li,S. and Peng,S.
+  TITLE     Down-regulation of SCF, KIT and MITF in the pigeon hair bulb may
+            cause white plumage pigmentation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 336)
+  AUTHORS   Apopo,S.N., Li,S. and Peng,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2015) Key Laboratory of Agricultural Animal
+            Genetics, Breeding and Reproduction, Ministry of Education, Huazhong
+            Agricultural University, 1 Shizishan Street, Hongshan District,
+            Wuhan, Hubei Province 430070, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNASTAR v. 7.1.0.44
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..336
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8932"
+     gene            <1..>336
+                     /gene="KIT"
+     CDS             <1..>336
+                     /gene="KIT"
+                     /codon_start=1
+                     /product="KIT"
+                     /protein_id="ALK04374.1"
+                     /translation="SDVWSYGILLWELFSLGSSPYPGMPVDSKFYKMIKEGYRMFSPEC
+                     APPEMYDIMKSCWDADPLQRPTFKQIVQLIEQQLSDNAPRVYANFSTPPSSQGNAPDHS
+                     VRINSVGR"
+ORIGIN
+        1 agtgatgtct ggtcttatgg gatattgctt tgggagctct tttctttagg aagcagccca
+       61 tatccaggga tgcccgtgga ctccaagttc tataaaatga tcaaggaggg atacagaatg
+      121 ttcagccctg agtgtgcacc gcctgaaatg tatgacataa tgaagagttg ctgggatgct
+      181 gatcctttgc agagacccac atttaaacaa atcgtacagc tgatagagca gcagctttct
+      241 gataatgccc ctcgggttta tgcgaacttt tcaactccac cttccagtca aggaaacgct
+      301 ccagatcact cagtgaggat taactcagtg ggtaga
+//
+LOCUS       KR815360                 211 bp    mRNA    linear   VRT 27-OCT-2015
+DEFINITION  Columba livia TYRP1 (TYRP1) mRNA, partial cds.
+ACCESSION   KR815360
+VERSION     KR815360.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 211)
+  AUTHORS   Apopo,S.N., Li,S. and Peng,S.
+  TITLE     Down-regulation of SCF, KIT and MITF in the pigeon hair bulb may
+            cause white plumage pigmentation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 211)
+  AUTHORS   Apopo,S.N., Li,S. and Peng,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2015) Key Laboratory of Agricultural Animal
+            Genetics, Breeding and Reproduction, Ministry of Education, Huazhong
+            Agricultural University, 1 Shizishan Street, Hongshan District,
+            Wuhan, Hubei Province 430070, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNASTAR v. 7.1.0.44
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..211
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8932"
+     gene            <1..211
+                     /gene="TYRP1"
+     CDS             <1..211
+                     /gene="TYRP1"
+                     /codon_start=2
+                     /product="TYRP1"
+                     /protein_id="ALK04373.1"
+                     /translation="NEMFVTAPENLGYSYEVEWPARALRVTEMITIAIVTALVLVAIIF
+                     AAAACIVRVKKNKDDLHQPLLTDQ"
+ORIGIN
+        1 taatgaaatg tttgttactg caccagaaaa cctaggatac agctacgaag ttgagtggcc
+       61 agctcgggct ctccgtgtca cagagatgat aactattgca atagtgactg cactggttct
+      121 tgttgcaatt atctttgctg ctgctgcatg tatcgtacgt gtcaagaaaa ataaggatga
+      181 cttgcatcag cctcttctca ctgatcagta a
+//

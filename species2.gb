@@ -1,0 +1,362 @@
+LOCUS       MF094722                3858 bp    mRNA    linear   VRT 31-MAY-2018
+DEFINITION  Columba livia melanoma differentiation associated protein-5 mRNA,
+            complete cds.
+ACCESSION   MF094722
+VERSION     MF094722.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 3858)
+  AUTHORS   Li,G., Lu,L., Tian,Y., Chen,L., Shen,J., Tao,Z., Zeng,T. and Xu,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2017) Institute of Animal Science and Veterinary
+            Medicine, Zhejiang Academy of Agricultural Sciences, 198 Shiqiao
+            Road, Hangzhou, Zhejiang 310021, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3858
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8932"
+                     /clone="c"
+     CDS             211..3240
+                     /note="MDA5"
+                     /codon_start=1
+                     /product="melanoma differentiation associated protein-5"
+                     /protein_id="AVZ66075.1"
+                     /translation="MGEESRDERFLYMISCFRPRLEQFIRVEPVLDRLPLLSAEDREK
+                     VRAAARQRGEVEGAEELLRAVERGPRGCGWFHEFLQALEHSGCSLAACYVNPSLSQLP
+                     SPAEEADHDLCVHLVQLLYSTLVDKMQTVQVAEKCLQMGIFQEEDLDQIHTVTDNHGN
+                     RGGARELLSRVVQKKDWFSPFLIALRETRHGDLADDLSGNTGGTENGQNEMKNSTNEV
+                     REVISPPGYAIVEDLKQQENVNDSFSSENSVLETSTRRNSVVSESDVSIGDGSVSNLK
+                     ENLGHSCTTSDSDEGEMESRSSPEPDLILRDYQMEVAKPALNGENIIICLPTGSGKTR
+                     VAVYITKDHLDKKKRASEPGKVIVLVNKVPLVEQHLRKEFNPFLKRWYRVIGLSGDSQ
+                     LKISFPEVVRRNDVIISTAQILENSLLDAAKEDEEGVHLSDFSLIIIDECHHTQKEGV
+                     YNNIMRRYLKEKMKNRKLAKENKPLIPQPQILGLTASPGVGGATSNSKAEEHILKICA
+                     NLDACRIMTVEEHASQLKNQVKEPYKKTVIADDKRRDPFRERITEIMTDIQNYCQLHP
+                     KSEFGTQPYEQWVIREEKKAAKEEKRKERVCAEHLKKYNDALQINDTIRMVDAYNHLK
+                     NFYKEEKSKKTVRNDDDDDDDEPAVSKQDETDEFLIGLFHAKKKQLKELARKPEYENE
+                     KLIQLRNTLMEEFTKTEEPRGIIFTKTRLSAFALFQWIKDNPKFEEVGIKAHYLIGAG
+                     HNSEMKPMTQNEQREVIDKFRGGNVNLLIATTVAEEGLDIKECNIVIRYGLVTNEIAM
+                     VQARGRARADESTYALVASSGSGAVEREDVNIFREKMMYKAIQRVQKMPREEYLNKIQ
+                     DFQLQSIVEKKMKTKRDQCKTYKKNPSLITFLCKNCYKLICSGEDIQVIGNMHHVSVK
+                     KDFQSLYHTRENKTLQDKHADYQTNGEIICKDCGQAWGNMMVHRGLDLPCLKIRNFVV
+                     VFEDKKTTKQIFKKWGELPIRFPNFDYAAHCPSSDED"
+ORIGIN      
+        1 atgaaacggg gcaggctcgg cggcagctga ggcggcgcgg agcgggacgg gggacgcgct
+       61 cctcgctcac accgagcccg acaccagcct gcggagaccg cgggtcctga gcggctgggc
+      121 tccctcagcc gcccttgcgg gcacatcccc ccgtgcccgc cgtcgttctc cagcggcagc
+      181 aggggtgtcg cggacgccgc cagcgcagcg atgggagaag agtcccgaga cgaacgcttc
+      241 ctctacatga tctcctgctt caggccgcgg ctggagcagt tcatccgggt ggagccggtg
+      301 ctggaccggc ttcccttgct gagcgcggag gacagggaga aggtgcgggc ggccgcccgg
+      361 cagcggggcg aggtggaggg ggcggaggag ctgctgcggg ccgtggagcg gggaccccgc
+      421 gggtgcggct ggttccacga gttcctgcag gcgctggagc acagtggctg cagcctggct
+      481 gcctgctacg tgaaccccag cctcagccag ctgccatcgc cagccgagga ggccgaccat
+      541 gacctctgcg tgcacttggt gcagctgctc tacagcacgc tggtggataa aatgcagacc
+      601 gtgcaggtgg ccgagaagtg cctgcagatg ggcatcttcc aggaggagga cctcgatcag
+      661 atccacactg ttactgacaa tcatgggaac agaggtggtg caagggaact actgagcaga
+      721 gtagtgcaga agaaggattg gttctctcct tttttgattg ctctacgtga aacccgacat
+      781 ggagaccttg cagatgatct aagtggaaat acaggaggaa cagagaatgg acaaaatgag
+      841 atgaagaaca gtacaaatga agtaagagaa gttataagcc caccaggata tgccattgtg
+      901 gaggatttga aacagcaaga aaatgtgaat gatagtttca gcagtgagaa cagtgtactg
+      961 gaaacatcta ctagaaggaa ttctgtagtt tctgagtcag atgtctccat aggagatgga
+     1021 agtgtcagta acttgaaaga aaacttggga cacagctgca caaccagtga ttcagatgaa
+     1081 ggtgaaatgg aaagcagatc ttcacctgag ccagatctga tcctgagaga ttaccagatg
+     1141 gaagttgcaa agccagcact gaatggggag aatattataa tatgtctccc tacaggcagt
+     1201 ggtaaaacca gagtggctgt ttacattact aaagatcact tggataagaa gaaaagagca
+     1261 tcggagcctg gaaaagttat agtacttgtt aataaggtac cattggtaga acaacattta
+     1321 cgaaaggagt ttaatccatt cctgaagcgt tggtatcggg ttattggttt aagtggcgat
+     1381 tctcagctga aaatctcatt tcctgaagtt gtcagaagaa atgatgtcat catcagtaca
+     1441 gcacagatcc ttgagaattc actgttagat gcagccaagg aagatgaaga aggtgtccac
+     1501 ttatcagatt tttcactcat cattattgat gaatgtcatc acactcagaa ggaaggtgtc
+     1561 tacaataata taatgcgacg ttacttaaaa gaaaagatga agaacaggaa gctagcaaaa
+     1621 gaaaacaaac cactgatccc acagcctcag attctgggac ttacagcctc acctggtgta
+     1681 ggaggtgcaa catccaactc aaaagctgaa gaacatattc tgaaaatctg tgccaatctc
+     1741 gatgcgtgta gaatcatgac tgttgaagag catgcctccc aattgaagaa tcaagtgaag
+     1801 gaaccatata agaagactgt gattgcagat gacaaaagaa gggatccatt tagagagaga
+     1861 attactgaga tcatgaccga tattcaaaac tattgccagc ttcatccaaa atctgagttt
+     1921 ggaactcagc catatgaaca gtgggtgatt agagaagaga aaaaagctgc aaaagaagaa
+     1981 aaacgcaagg aacgtgtctg tgcggaacac ttgaagaaat ataacgatgc tctccagata
+     2041 aatgacacca tccgaatggt ggatgcatac aatcacctaa agaactttta taaggaggag
+     2101 aaaagtaaga agacagtaag gaatgatgat gatgacgatg atgatgaacc agcagtatca
+     2161 aaacaggatg aaacagatga atttctaata ggtttatttc atgcaaaaaa gaagcagctg
+     2221 aaagagttgg ctagaaagcc agaatatgaa aatgagaagc taatacagtt gcgaaacact
+     2281 ttaatggagg agttcacaaa gaccgaggaa cctagaggaa ttattttcac gaagactcgg
+     2341 ctcagtgcct ttgctctgtt ccagtggatt aaggataacc caaaatttga agaagtggga
+     2401 attaaggccc attatcttat tggtgctgga cataacagtg aaatgaaacc catgactcag
+     2461 aatgagcaaa gggaagttat tgataaattc cgaggtggta atgtaaattt acttattgct
+     2521 actactgtag ctgaggaagg cctagacatc aaagaatgta acatcgttat tcgctatggc
+     2581 ctcgtcacca atgaaattgc catggtgcag gctcgtggtc gagctcgtgc tgatgagagc
+     2641 acctatgcac ttgtggcttc aagtggctca ggagccgttg aacgtgaaga tgttaatatt
+     2701 ttccgtgaga aaatgatgta taaggccatt caacgtgtcc agaagatgcc gcgggaagag
+     2761 tatttaaata agattcagga tttccagttg caaagtatag tggaaaaaaa aatgaagaca
+     2821 aagagagatc agtgcaagac atacaagaaa aatccttcac taataacatt cctgtgcaaa
+     2881 aattgctaca agctgatatg ttctggagaa gacatacaag ttattggaaa catgcatcat
+     2941 gtcagtgtaa aaaaagattt ccaaagtctt taccatacaa gagaaaataa gacactgcaa
+     3001 gataagcatg ctgattacca gacaaatggg gaaattatat gtaaagactg tggacaagct
+     3061 tggggaaaca tgatggttca cagaggtctt gacctgcctt gtctaaaaat tagaaatttt
+     3121 gtggttgtgt ttgaagacaa gaaaacaaca aagcaaattt ttaagaaatg gggagaactg
+     3181 cccattaggt tccctaattt tgattatgca gctcattgcc cttcaagtga tgaagattag
+     3241 aaaacccaag aaaggagaag gataaagtca tatgggtaca gtctgaactc agatttgcag
+     3301 tggtacacca caacaaagaa gatgacccaa tacattgcag tcatgtgtat ccatggaaca
+     3361 aattcctgta tctactcact acagcccatc atggggtgac aacagtgtca aaagtgtgtt
+     3421 aggtgacctg tcataaagca cagaacatag gaccgacatc ttgagatatg ccatggtgat
+     3481 tattttctgg tttccttccc actataaacc ttttgaagat aaagtacctc gaaagaggag
+     3541 ccatgaaaag aaaaagttga gctgagtgtt attttctgaa taattcttgc tttgtcagtg
+     3601 ttttcatgac tgagttcttg ccctctaatc tttagctgta agctcataca tcttgacaga
+     3661 ctaaaactaa gtttacatta aaagacattt caaagaatca agcccttaac ctgacttgaa
+     3721 attgattatt gtgatgtcca agaagcacaa tgccaagtga ctttcggtgt gttagtttca
+     3781 taggattatt taacgggcta tataatgagg tatgtgattt ttttcaataa attactataa
+     3841 cgaataaaaa aaaaaaaa
+//
+
+LOCUS       MG214790                1215 bp    mRNA    linear   VRT 03-JAN-2018
+DEFINITION  Columba livia voucher UWM<POL>:P CD8 1 CD8a mRNA, complete cds.
+ACCESSION   MG214790
+VERSION     MG214790.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 1215)
+  AUTHORS   Dziewulska,D. and Stenzel,T.
+  TITLE     The influence of aloe vera and licorice extracts on selected
+            mechanisms of humoral and cell-mediated immunity in pigeons
+            experimentally infected with PPMV-1
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1215)
+  AUTHORS   Dziewulska,D. and Stenzel,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2017) Department of Poultry Diseases, Faculty of
+            Veterinary Medicine, University of Warmia and Mazury in Olsztyn,
+            Oczapowskiego 13, Olsztyn, Warminsko-Mazurskie 10-719, Poland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1215
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /host="Columba livia Ornamental pigeon Danziger highflier"
+                     /specimen_voucher="UWM<POL>:P CD8 1"
+                     /db_xref="taxon:8932"
+                     /geo_loc_name="Poland"
+                     /collection_date="Jun-2017"
+                     /collected_by="Daria Dziewulska"
+                     /identified_by="Daria Dziewulska"
+     CDS             523..1215
+                     /codon_start=1
+                     /product="CD8a"
+                     /protein_id="AUG84396.1"
+                     /translation="MDRSPALLLLLALRLCCPGMQVQGYKMMVKFRDSSITHVRVGQR
+                     LELKCQTDKGDSGVFWVRMDRAGTLHFIVFISSLARTTFEGNQRTSTRFEATRDSSFY
+                     LLAVKSFTLQDEGNYFCLMNSNQMLYFSHGQPAFLLVTTTPAPTTQGSTTKEEPSPET
+                     PDPDTSKKKEPDFFCDIFIWVPLAGTCVLLLLALAVTTVLCQRTRSRRCRCKRPVNGK
+                     PHGKPSVPRRHV"
+ORIGIN      
+        1 tgggtaataa aatacagcgg gttttgccat ctgtatgagg ctccttgagt ccacgcaagt
+       61 ggggacagca gaatccctgc caagaagcac aacctggagc ctgccaccag agcatggggc
+      121 tcatccatga tccatgaggg tctcttccaa ccaaaatgat tctatgactc tgcagagatg
+      181 gagctgctgt gaagccctgg acggccgaag ataccaggct gtggtggctg atcctgcccc
+      241 aggcatgagc atcattcctc tggatctcca gggaagtcaa cgaggaaaaa tccttgaggc
+      301 gccattaacc aaaatgataa atgagcccaa attctggatt agaacttagt ttcttcagaa
+      361 atgttttttt caccttcatt ttgccgcaga tgccgaacac catcttaaga gggtcctgat
+      421 gacatcacat cctctccaaa gagcaacgca gcctcccaag tcaagagaga aagatcatct
+      481 ctgctccact gcaccgtccc caaggacggt cacccgtaga agatggacag gtcccctgca
+      541 ctgcttcttc tgctcgccct gaggctctgc tgccccggga tgcaggtcca ggggtacaag
+      601 atgatggtca agtttcgtga cagcagcatc acgcacgtcc gggtgggaca gcggctggag
+      661 ctgaagtgtc agacggacaa gggggacagt ggtgtgttct gggtccgtat ggacagagcg
+      721 gggactcttc atttcatcgt cttcatttcg tcactggccc ggaccacctt cgaggggaac
+      781 cagaggacct ccacacgctt tgaagcgacc agggacagca gtttctacct gctggctgtg
+      841 aagtcgttca cactgcagga cgaggggaac tatttctgcc tgatgaacag caaccaaatg
+      901 ctgtacttca gccatggcca gcctgccttc ctcctagtca ccaccacacc agcacccacc
+      961 acccagggta gcaccaccaa agaggaaccc agcccggaga ccccggatcc agacaccagc
+     1021 aagaagaaag agccggattt cttctgtgat atcttcatct gggttccctt ggcaggcacc
+     1081 tgcgtcctgc tcctcctcgc cctggcagtc accaccgtgc tgtgtcaacg aaccaggagc
+     1141 cgaagatgca gatgtaaaag acctgtgaac gggaagcccc atgggaaacc cagcgttccc
+     1201 aggcgacacg tatga
+//
+
+LOCUS       MG214789                1371 bp    mRNA    linear   VRT 03-JAN-2018
+DEFINITION  Columba livia voucher UWM<POL>:P CD4 1 CD4 mRNA, partial cds.
+ACCESSION   MG214789
+VERSION     MG214789.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 1371)
+  AUTHORS   Dziewulska,D. and Stenzel,T.
+  TITLE     The influence of aloe vera and licorice extracts on selected
+            mechanisms of humoral and cell-mediated immunity in pigeons
+            experimentally infected with PPMV-1
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1371)
+  AUTHORS   Dziewulska,D. and Stenzel,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2017) Department of Poultry Diseases, Faculty of
+            Veterinary Medicine, University of Warmia and Mazury in Olsztyn,
+            Oczapowskiego 13, Olsztyn, Warminsko-Mazurskie 10-719, Poland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1371
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /host="Columba livia Ornamental pigeon Danziger highflier"
+                     /specimen_voucher="UWM<POL>:P CD4 1"
+                     /db_xref="taxon:8932"
+                     /geo_loc_name="Poland"
+                     /collection_date="Jun-2017"
+                     /collected_by="Daria Dziewulska"
+                     /identified_by="Daria Dziewulska"
+     CDS             <1..1344
+                     /codon_start=1
+                     /product="CD4"
+                     /protein_id="AUG84395.1"
+                     /translation="GVAGQAVILNCRGIPHHAAVTWKHYKLVIKKSSITPLKGKATMS
+                     DRSEIIPSSKHLKVMDLRLSDAGIYTCEYESHTVSISLHVFKLMISLDGHFLPNEDLE
+                     LTLMQNSSHLLPSLNITLFNSNNNIVTPIVVEDKTHQKYTVKLKELEATDSGTWTCRV
+                     HSDSPLINQNIPFDVRVLGFQNPDLERKYATVGSTVILSWHLNFRKITWKGGFTGQLN
+                     WKQQESAPAHELLDFNTTAWGEQHKTKKSNRFWFEIREGKFGSTIEVKLSKVNFNHSG
+                     HYQCQLAYNSRYVQSKIELVVMKVSANPAGPLARGAEMTLTCQVSSPLPPNTHLRWER
+                     VNGTQMDVKKSKQHEVKLEVNVSTAGLWICHLIEDNDLMISLSYPVEEAPVWISYVVI
+                     GASVGGSVLVFVLACLCTISGISWQRRRQRAKRMVQARQYLLENKTWQCQHRLNK"
+ORIGIN      
+        1 ggtgtcgcag gacaggcagt catcttgaat tgcagaggta tacctcatca tgcagctgtg
+       61 acctggaagc actacaagct tgttattaaa aagtcatcta ttaccccttt gaaaggcaaa
+      121 gctaccatga gtgatcgatc ggaaatcatc cccagcagta aacacctgaa ggtgatggac
+      181 ttaagactct ctgatgctgg catctacacc tgtgaatatg agtctcacac agtcagtatc
+      241 tcactacatg tcttcaaatt gatgatctct ttagatgggc acttcctgcc aaatgaagac
+      301 cttgagttga ctttaatgca aaattcatcc catcttctac ccagtctcaa catcacattg
+      361 tttaacagta acaacaacat tgtaacaccc atagtagtag aagacaagac ccatcaaaaa
+      421 tacacagtga agttaaagga actggaggct acagacagtg ggacttggac gtgtcgtgtc
+      481 cattcagact ctccattgat taatcagaac atcccctttg atgtaagggt attaggtttt
+      541 cagaatccag acttggaaag aaagtatgca actgttggta gcactgtcat cttgtcatgg
+      601 catctgaact tccggaagat aacatggaaa ggaggtttca caggacaact gaattggaag
+      661 caacaagaaa gtgcacctgc tcatgaacta cttgatttca acaccacagc atggggagag
+      721 cagcataaga ccaaaaaaag caaccgcttt tggtttgaaa tacgtgaagg caaatttgga
+      781 agcaccatag aagtgaaact ctccaaagtc aatttcaacc actctgggca ctaccagtgc
+      841 cagctggcat acaacagcag atacgtgcag agcaagatag agctagtggt gatgaaagtc
+      901 tcagctaacc ctgctgggcc actcgccaga ggggccgaga tgaccctgac ctgccaggtc
+      961 tctagcccac tcccacccaa cacacatttg cgctgggaac gtgtgaatgg gactcagatg
+     1021 gatgtcaaga agtcaaagca gcatgaagta aagttggagg tgaatgtcag cactgcaggg
+     1081 ctgtggatct gtcacctcat agaagacaat gacttgatga tcagcctcag ctaccctgtg
+     1141 gaggaagctc ctgtttggat tagttatgtg gtaattggag caagtgttgg aggcagtgtg
+     1201 ttggtgtttg tccttgcatg cctgtgcacc atcagtggta taagctggca gcggagaagg
+     1261 caacgggcaa aaaggatggt acaagcacga caatacttgc tggaaaacaa gacgtggcag
+     1321 tgtcaacatc ggctgaataa gtagtattgc agcactggag tcagaaggac t
+//
+
+LOCUS       KR815361                 336 bp    mRNA    linear   VRT 27-OCT-2015
+DEFINITION  Columba livia KIT (KIT) mRNA, partial cds.
+ACCESSION   KR815361
+VERSION     KR815361.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 336)
+  AUTHORS   Apopo,S.N., Li,S. and Peng,S.
+  TITLE     Down-regulation of SCF, KIT and MITF in the pigeon hair bulb may
+            cause white plumage pigmentation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 336)
+  AUTHORS   Apopo,S.N., Li,S. and Peng,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2015) Key Laboratory of Agricultural Animal
+            Genetics, Breeding and Reproduction, Ministry of Education,
+            Huazhong Agricultural University, 1 Shizishan Street, Hongshan
+            District, Wuhan, Hubei Province 430070, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNASTAR v. 7.1.0.44
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..336
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8932"
+     gene            <1..>336
+                     /gene="KIT"
+     CDS             <1..>336
+                     /gene="KIT"
+                     /codon_start=1
+                     /product="KIT"
+                     /protein_id="ALK04374.1"
+                     /translation="SDVWSYGILLWELFSLGSSPYPGMPVDSKFYKMIKEGYRMFSPE
+                     CAPPEMYDIMKSCWDADPLQRPTFKQIVQLIEQQLSDNAPRVYANFSTPPSSQGNAPD
+                     HSVRINSVGR"
+ORIGIN      
+        1 agtgatgtct ggtcttatgg gatattgctt tgggagctct tttctttagg aagcagccca
+       61 tatccaggga tgcccgtgga ctccaagttc tataaaatga tcaaggaggg atacagaatg
+      121 ttcagccctg agtgtgcacc gcctgaaatg tatgacataa tgaagagttg ctgggatgct
+      181 gatcctttgc agagacccac atttaaacaa atcgtacagc tgatagagca gcagctttct
+      241 gataatgccc ctcgggttta tgcgaacttt tcaactccac cttccagtca aggaaacgct
+      301 ccagatcact cagtgaggat taactcagtg ggtaga
+//
+
+LOCUS       KR815360                 211 bp    mRNA    linear   VRT 27-OCT-2015
+DEFINITION  Columba livia TYRP1 (TYRP1) mRNA, partial cds.
+ACCESSION   KR815360
+VERSION     KR815360.1
+KEYWORDS    .
+SOURCE      Columba livia (rock pigeon)
+  ORGANISM  Columba livia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Columbimorphae;
+            Columbiformes; Columbidae; Columba.
+REFERENCE   1  (bases 1 to 211)
+  AUTHORS   Apopo,S.N., Li,S. and Peng,S.
+  TITLE     Down-regulation of SCF, KIT and MITF in the pigeon hair bulb may
+            cause white plumage pigmentation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 211)
+  AUTHORS   Apopo,S.N., Li,S. and Peng,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2015) Key Laboratory of Agricultural Animal
+            Genetics, Breeding and Reproduction, Ministry of Education,
+            Huazhong Agricultural University, 1 Shizishan Street, Hongshan
+            District, Wuhan, Hubei Province 430070, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNASTAR v. 7.1.0.44
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..211
+                     /organism="Columba livia"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8932"
+     gene            <1..211
+                     /gene="TYRP1"
+     CDS             <1..211
+                     /gene="TYRP1"
+                     /codon_start=2
+                     /product="TYRP1"
+                     /protein_id="ALK04373.1"
+                     /translation="NEMFVTAPENLGYSYEVEWPARALRVTEMITIAIVTALVLVAII
+                     FAAAACIVRVKKNKDDLHQPLLTDQ"
+ORIGIN      
+        1 taatgaaatg tttgttactg caccagaaaa cctaggatac agctacgaag ttgagtggcc
+       61 agctcgggct ctccgtgtca cagagatgat aactattgca atagtgactg cactggttct
+      121 tgttgcaatt atctttgctg ctgctgcatg tatcgtacgt gtcaagaaaa ataaggatga
+      181 cttgcatcag cctcttctca ctgatcagta a
+//
+
